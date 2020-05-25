@@ -34,6 +34,7 @@ public class Cine {
         System.out.println("1. Gestion de Categorias y Salas ");
         System.out.println("2. Gestion de Empleados (Agregar o eliminar empleado)");
         System.out.println("3. Reportes de sistema");
+        System.out.println("4. Solo es una prueba..");
         op = ingreso.nextInt();
         switch(op){
             case 1:
